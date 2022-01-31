@@ -1,0 +1,13 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+}
+.first-section{
+    display: flex;
+}
+.first-div{
+    width: 50%;
+}
+.green{
+    color: limegreen;
+}
